@@ -14,8 +14,8 @@
 | Operational Asset | System Interface Link | Current Status |
 | :--- | :--- | :--- |
 | **🤖 Model Engine** | [Execute Interactive Jupyter Notebook](https://colab.research.google.com/drive/1rBa1Cy6hxaSKaI5JULkOKrbEGiAcVWeR?usp=sharing) | `● OPERATIONAL` |
-| **📑 Executive Briefing** | [Download Full Analytical PDF Report](./reports/Car_Resale_Analysis_Project_Report.pdf) | `● VERIFIED` |
-| **🗃️ Raw Metric Feed** | [Explore Base Vehicle Dataset](./data/daTA.csv) | `● SECURE` |
+| **📑 Executive Briefing** | [Download Full Analytical PDF Report](https://github.com/anuragN2107/High-Performance-Car-Resale-Analytics-Forecasting/blob/main/Documentation/Car_Resale_Price_Report.docx) | `● VERIFIED` |
+| **🗃️ Raw Metric Feed** | [Explore Base Vehicle Dataset](https://github.com/anuragN2107/High-Performance-Car-Resale-Analytics-Forecasting/blob/main/data/Car_Resale_Price.csv) | `● SECURE` |
 
 ---
 
