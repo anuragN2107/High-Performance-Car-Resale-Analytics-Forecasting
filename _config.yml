@@ -1,0 +1,7 @@
+theme: jekyll-theme-midnight
+title: "🏎️ High-Performance Car Resale Analytics & Forecasting"
+description: "Advanced data analytics framework evaluating vehicle depreciation, predictive resale valuations, and market velocity factors."
+background_color: "#121212" # Carbon fiber track black
+text_color: "#E0E0E0"       # Matte silver body paint
+accent_color: "#FF0033"     # Brembo brake-caliper red
+link_color: "#00E5FF"       # Xenon HID headlight blue
