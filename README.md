@@ -13,7 +13,7 @@
 
 | Operational Asset | System Interface Link | Current Status |
 | :--- | :--- | :--- |
-| **🤖 Model Engine** | [Execute Interactive Jupyter Notebook](./notebooks/Car_Resale_Analysis_Code.ipynb) | `● OPERATIONAL` |
+| **🤖 Model Engine** | [Execute Interactive Jupyter Notebook](https://colab.research.google.com/drive/1rBa1Cy6hxaSKaI5JULkOKrbEGiAcVWeR?usp=sharing) | `● OPERATIONAL` |
 | **📑 Executive Briefing** | [Download Full Analytical PDF Report](./reports/Car_Resale_Analysis_Project_Report.pdf) | `● VERIFIED` |
 | **🗃️ Raw Metric Feed** | [Explore Base Vehicle Dataset](./data/daTA.csv) | `● SECURE` |
 
